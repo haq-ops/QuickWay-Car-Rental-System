@@ -1,0 +1,16 @@
+.search-bar {
+    margin-bottom: 20px;
+}
+
+.available-cars {
+    border: 1px solid #ccc;
+    padding: 15px;
+    background: #f9f9f9;
+}
+
+.sub-menu {
+    margin-bottom: 15px;
+    border: 1px solid #e3e3e3;
+    padding: 10px;
+    border-radius: 5px;
+}
